@@ -4,4 +4,6 @@ https://docs.google.com/spreadsheets/d/1FKasGCFrrAW2r9iIMAwBwjr3IFQqtyib/edit?us
 
 https://chromewebstore.google.com/detail/always-active-window-alwa/ehllkhjndgnlokhomdlhgbineffifcbj?hl=en&pli=1
 
+https://github.com/aashishrajput9838/typink/releases/tag/v1.0.1
+
 
